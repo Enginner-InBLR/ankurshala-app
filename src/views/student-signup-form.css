@@ -1,0 +1,753 @@
+.student-signup-form-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .student-signup-form-student-signup-form {
+    width: 100%;
+    height: 718px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .student-signup-form-rectangle {
+    top: 0px;
+    left: 0px;
+    width: 938px;
+    height: 718px;
+    position: absolute;
+  }
+  .student-signup-form-image {
+    top: -68px;
+    left: 76px;
+    width: 787px;
+    height: 854px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle01 {
+    top: 683px;
+    left: 1040px;
+    width: 159px;
+    height: 14px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle02 {
+    top: 683px;
+    left: 1210px;
+    width: 45px;
+    height: 14px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle03 {
+    top: 683px;
+    left: 1266px;
+    width: 51px;
+    height: 14px;
+    position: absolute;
+  }
+  .student-signup-form-text {
+    top: 266px;
+    left: 136px;
+    color: rgba(255, 255, 255, 1);
+    width: 411px;
+    height: auto;
+    position: absolute;
+    font-size: 71px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 93.5999984741211px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text02 {
+    top: 360px;
+    left: 136px;
+    color: rgba(255, 255, 255, 1);
+    width: 334px;
+    height: auto;
+    position: absolute;
+    font-size: 71px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 93.5999984741211px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text04 {
+    top: 155px;
+    left: 1013px;
+    color: rgba(49, 53, 55, 1);
+    width: 89px;
+    height: auto;
+    position: absolute;
+    font-size: 23px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text06 {
+    top: 545px;
+    left: 1040px;
+    color: rgba(106, 115, 124, 1);
+    width: 535px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 500;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component5 {
+    top: 598px;
+    left: 1012px;
+    width: 410px;
+    height: 51px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle04 {
+    top: 0px;
+    left: 0px;
+    width: 410px;
+    height: 51px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle05 {
+    top: 0px;
+    left: 0px;
+    width: 410px;
+    height: 51px;
+    position: absolute;
+    border-radius: 100px;
+  }
+  .student-signup-form-text08 {
+    top: 17px;
+    left: 173px;
+    color: rgba(255, 255, 255, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text10 {
+    top: 683px;
+    left: 1040px;
+    color: rgba(118, 118, 118, 1);
+    width: 11px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text11 {
+    top: 683px;
+    left: 1051px;
+    color: rgba(118, 118, 118, 1);
+    width: 26px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text13 {
+    top: 683px;
+    left: 1077px;
+    color: rgba(118, 118, 118, 1);
+    width: 107px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text15 {
+    top: 683px;
+    left: 1210px;
+    color: rgba(118, 118, 118, 1);
+    width: 29px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text17 {
+    top: 683px;
+    left: 1266px;
+    color: rgba(118, 118, 118, 1);
+    width: 36px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-text19 {
+    top: 683px;
+    left: 1329px;
+    color: rgba(118, 118, 118, 1);
+    width: 95px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-bgremoveremovebgpreview2 {
+    top: 30px;
+    left: 136px;
+    width: 66px;
+    height: 70px;
+    position: absolute;
+  }
+  .student-signup-form-text21 {
+    top: 38px;
+    left: 218px;
+    color: rgba(255, 255, 255, 1);
+    width: 252px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Quattrocento Sans;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-undraw-examsre4ios1 {
+    top: -9px;
+    left: 1131px;
+    width: 173px;
+    height: 149px;
+    position: absolute;
+  }
+  .student-signup-form-text26 {
+    top: 117px;
+    left: 1152px;
+    color: rgba(0, 0, 0, 1);
+    width: 137px;
+    height: auto;
+    position: absolute;
+    font-size: 23px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component6 {
+    top: 195px;
+    left: 1013px;
+    width: 501px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle06 {
+    top: 44.73748779296875px;
+    left: 0.2445095032453537px;
+    width: 501px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle07 {
+    top: 0px;
+    left: 0px;
+    width: 501px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle08 {
+    top: 0px;
+    left: 0px;
+    width: 501px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text28 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 215px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component7 {
+    top: 245px;
+    left: 1013px;
+    width: 242px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle09 {
+    top: 44.73748779296875px;
+    left: 0.11810638755559921px;
+    width: 242px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle10 {
+    top: 0px;
+    left: 0px;
+    width: 242px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle11 {
+    top: 0px;
+    left: 0px;
+    width: 242px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text30 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 104px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component12 {
+    top: 347px;
+    left: 1012px;
+    width: 290px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle12 {
+    top: 44.73748779296875px;
+    left: 0.14153245091438293px;
+    width: 290px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle13 {
+    top: 0px;
+    left: 0px;
+    width: 290px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle14 {
+    top: 0px;
+    left: 0px;
+    width: 290px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text32 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 124px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component13 {
+    top: 295px;
+    left: 1012px;
+    width: 313px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle15 {
+    top: 44.73748779296875px;
+    left: 0.1527574360370636px;
+    width: 313px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle16 {
+    top: 0px;
+    left: 0px;
+    width: 313px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle17 {
+    top: 0px;
+    left: 0px;
+    width: 313px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text34 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 134px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component11 {
+    top: 245px;
+    left: 1272px;
+    width: 242px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle18 {
+    top: 44.73748779296875px;
+    left: 0.11810638755559921px;
+    width: 242px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle19 {
+    top: 0px;
+    left: 0px;
+    width: 242px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle20 {
+    top: 0px;
+    left: 0px;
+    width: 242px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text36 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 104px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component8 {
+    top: 395px;
+    left: 1013px;
+    width: 291px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle21 {
+    top: 44.73748779296875px;
+    left: 0.14202049374580383px;
+    width: 291px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle22 {
+    top: 0px;
+    left: 0px;
+    width: 291px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle23 {
+    top: 0px;
+    left: 0px;
+    width: 291px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text38 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 125px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component16 {
+    top: 487px;
+    left: 1199px;
+    width: 486px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle24 {
+    top: 44.73748779296875px;
+    left: 0.23718886077404022px;
+    width: 486px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle25 {
+    top: 0px;
+    left: 0px;
+    width: 486px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle26 {
+    top: 0px;
+    left: 0px;
+    width: 486px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text40 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 209px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component15 {
+    top: 487px;
+    left: 1012px;
+    width: 149px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle27 {
+    top: 44.73748779296875px;
+    left: 0.07271839678287506px;
+    width: 149px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle28 {
+    top: 0px;
+    left: 0px;
+    width: 149px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle29 {
+    top: 0px;
+    left: 0px;
+    width: 149px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text42 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 64px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-component14 {
+    top: 441px;
+    left: 1013px;
+    width: 291px;
+    height: 46px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .student-signup-form-rectangle30 {
+    top: 44.73748779296875px;
+    left: 0.14202049374580383px;
+    width: 291px;
+    height: 1px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle31 {
+    top: 0px;
+    left: 0px;
+    width: 291px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-rectangle32 {
+    top: 0px;
+    left: 0px;
+    width: 291px;
+    height: 45px;
+    position: absolute;
+  }
+  .student-signup-form-text44 {
+    top: 15px;
+    color: rgba(137, 124, 124, 1);
+    width: 125px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-signup-form-undraw-certificatereyadiremovebgpreview1 {
+    top: 260px;
+    left: 563px;
+    width: 488px;
+    height: 511px;
+    position: absolute;
+  }
+  .student-signup-form-undraw-graduationregthnremovebgpreview1 {
+    top: 434px;
+    left: -99px;
+    width: 752px;
+    height: 332px;
+    position: absolute;
+  }
+  .student-signup-form-drop-down {
+    top: 450px;
+    left: 1274px;
+    width: 30px;
+    height: 28px;
+    position: absolute;
+  }
+  .student-signup-form-month-view {
+    top: 496px;
+    left: 1131px;
+    width: 30px;
+    height: 31px;
+    position: absolute;
+  }
+  .student-signup-form-frame {
+    top: 559px;
+    left: 1012px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  
