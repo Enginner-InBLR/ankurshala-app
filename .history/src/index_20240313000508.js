@@ -16,7 +16,6 @@ import StudentQuizForm from './views/student-quiz-form'
 import StudentDashboard from './views/Student-Dashboard'
 import TeacherDashboard from  './views/teacher-dashboard'
 import StudentProfilePage from './views/student-profile-page'
-import HomePage from './views/home-page'
 import NotFound from './views/not-found'
 
 const App = () => {
@@ -24,7 +23,6 @@ const App = () => {
     <Router>
       <Switch>
         <Route component={LoginPage} exact path="/" />
-        <Route component={HomePage} exact path="/HomePage" />
         <Route component={StudentSignupForm} exact path="/StudentSignup" />
         <Route component={TeacherSignupForm} exact path="/TeacherSignup" />
         <Route component={TeacherVerificationForm} exact path="/TeacherVerification" />

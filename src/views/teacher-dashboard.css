@@ -1,0 +1,3101 @@
+.teacher-dashboard-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.teacher-dashboard-teacher-dashboard {
+  width: 100%;
+  height: 1988px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.teacher-dashboard-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 718px;
+  position: absolute;
+}
+.teacher-dashboard-bgremoveremovebgpreview2 {
+  top: 0px;
+  left: 16px;
+  width: 66px;
+  height: 70px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle001 {
+  top: 16px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle002 {
+  top: 64px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle003 {
+  top: 65px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(76, 86, 128, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame {
+  top: 77px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle004 {
+  top: 112px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle005 {
+  top: 113px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame01 {
+  top: 125px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle006 {
+  top: 160px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle007 {
+  top: 161px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame02 {
+  top: 173px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle008 {
+  top: 208px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle009 {
+  top: 209px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame03 {
+  top: 221px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle010 {
+  top: 256px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle011 {
+  top: 257px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame04 {
+  top: 269px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle012 {
+  top: 304px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle013 {
+  top: 305px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame05 {
+  top: 317px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle014 {
+  top: 352px;
+  left: 24px;
+  width: 212px;
+  height: 49px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle015 {
+  top: 357px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame06 {
+  top: 369px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle016 {
+  top: 404px;
+  left: 24px;
+  width: 212px;
+  height: 49px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle017 {
+  top: 409px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame07 {
+  top: 421px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle018 {
+  top: 456px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle019 {
+  top: 457px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame08 {
+  top: 469px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle020 {
+  top: 519.2000122070312px;
+  left: 24px;
+  width: 212px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle021 {
+  top: 520px;
+  left: 24px;
+  width: 212px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle022 {
+  top: 537px;
+  left: 24px;
+  width: 212px;
+  height: 49px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle023 {
+  top: 542px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame09 {
+  top: 554px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle024 {
+  top: 589px;
+  left: 24px;
+  width: 212px;
+  height: 49px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle025 {
+  top: 594px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame10 {
+  top: 606px;
+  left: 38px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle026 {
+  top: 641px;
+  left: 24px;
+  width: 212px;
+  height: 45px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle027 {
+  top: 642px;
+  left: 25px;
+  width: 210px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame11 {
+  top: 655px;
+  left: 41px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle028 {
+  top: 20px;
+  left: 276px;
+  width: 318px;
+  height: 43px;
+  position: absolute;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle029 {
+  top: 19.600000381469727px;
+  left: 276px;
+  width: 39px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle030 {
+  top: 20.399999618530273px;
+  left: 275.20001220703125px;
+  width: 1px;
+  height: 43px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle031 {
+  top: 63.599998474121094px;
+  left: 276px;
+  width: 39px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle032 {
+  top: 20px;
+  left: 276px;
+  width: 39px;
+  height: 43px;
+  position: absolute;
+  border-radius: 8px 0 0 8px;
+}
+.teacher-dashboard-frame12 {
+  top: 35px;
+  left: 289px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle033 {
+  top: 19.600000381469727px;
+  left: 313.8000183105469px;
+  width: 280px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle034 {
+  top: 20.399999618530273px;
+  left: 593.800048828125px;
+  width: 1px;
+  height: 43px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle035 {
+  top: 63.599998474121094px;
+  left: 313.8000183105469px;
+  width: 280px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle036 {
+  top: 20px;
+  left: 314px;
+  width: 280px;
+  height: 43px;
+  position: absolute;
+  border-radius: 0 8px 8px 0;
+}
+.teacher-dashboard-frame13 {
+  top: 28px;
+  left: 1314px;
+  width: 18px;
+  height: 20px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle037 {
+  top: 23px;
+  left: 1330px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.teacher-dashboard-image {
+  top: 20px;
+  left: 1361px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle038 {
+  top: 92px;
+  left: 276px;
+  width: 100px;
+  height: 31px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame14 {
+  top: 100px;
+  left: 285px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle039 {
+  top: 147px;
+  left: 276px;
+  width: 1227px;
+  height: 463px;
+  position: absolute;
+  border-color: rgba(46, 54, 80, 0.125);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle040 {
+  top: 290.6000061035156px;
+  left: 276.8000183105469px;
+  width: 1226px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle041 {
+  top: 147px;
+  left: 277px;
+  width: 1226px;
+  height: 143px;
+  position: absolute;
+  border-radius: 7px 7px 0 0;
+}
+.teacher-dashboard-frame15 {
+  top: 250px;
+  left: 371px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle042 {
+  top: 203px;
+  left: 1341px;
+  width: 59px;
+  height: 31px;
+  position: absolute;
+  border-color: rgba(97, 218, 251, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle043 {
+  top: 203px;
+  left: 1408px;
+  width: 55px;
+  height: 31px;
+  position: absolute;
+  border-color: rgba(38, 43, 64, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-group {
+  top: 299px;
+  left: 285px;
+  width: 1209.9993896484375px;
+  height: 302px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group01 {
+  top: 0px;
+  left: 0px;
+  width: 1209.9893798828125px;
+  height: 302px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group02 {
+  top: 0px;
+  left: 0px;
+  width: 1209.9993896484375px;
+  height: 302px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group03 {
+  top: 0px;
+  left: 0px;
+  width: 1209.9993896484375px;
+  height: 302px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-vector {
+  top: 0px;
+  left: 0px;
+  width: 1210px;
+  height: 302px;
+  position: absolute;
+}
+.teacher-dashboard-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 1210px;
+  height: 227px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle044 {
+  top: 634px;
+  left: 276px;
+  width: 393px;
+  height: 169px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle045 {
+  top: 682px;
+  left: 329px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame16 {
+  top: 702px;
+  left: 349px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.teacher-dashboard-frame17 {
+  top: 764px;
+  left: 442px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle046 {
+  top: 634px;
+  left: 693px;
+  width: 393px;
+  height: 169px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle047 {
+  top: 682px;
+  left: 746px;
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  border-radius: 8px;
+}
+.teacher-dashboard-frame18 {
+  top: 702px;
+  left: 766px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.teacher-dashboard-frame19 {
+  top: 764px;
+  left: 859px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle048 {
+  top: 634px;
+  left: 1110px;
+  width: 393px;
+  height: 170px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-group04 {
+  top: 679px;
+  left: 1135px;
+  width: 129px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group05 {
+  top: 1.1368683772161603e-13px;
+  left: 26.58698844909668px;
+  width: 102.41293334960938px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 102px;
+  height: 80px;
+  position: absolute;
+}
+.teacher-dashboard-group06 {
+  top: 7.639137268066406px;
+  left: 0px;
+  width: 48.39485168457031px;
+  height: 64.80311584472656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 65px;
+  position: absolute;
+}
+.teacher-dashboard-group07 {
+  top: 1.1368683772161603e-13px;
+  left: 26.406024932861328px;
+  width: 38.092464447021484px;
+  height: 26.222272872924805px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 26px;
+  position: absolute;
+}
+.teacher-dashboard-frame20 {
+  top: 698px;
+  left: 1276px;
+  width: 20px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-frame21 {
+  top: 727px;
+  left: 1276px;
+  width: 20px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-frame22 {
+  top: 755px;
+  left: 1276px;
+  width: 20px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle049 {
+  top: 828px;
+  left: 276px;
+  width: 810px;
+  height: 387px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle050 {
+  top: 903.4000244140625px;
+  left: 276.8000183105469px;
+  width: 809px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle051 {
+  top: 829px;
+  left: 277px;
+  width: 809px;
+  height: 75px;
+  position: absolute;
+  border-radius: 7px 7px 0 0;
+}
+.teacher-dashboard-rectangle052 {
+  top: 850px;
+  left: 1000px;
+  width: 61px;
+  height: 31px;
+  position: absolute;
+  border-color: rgba(97, 218, 251, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle053 {
+  top: 903px;
+  left: 277px;
+  width: 809px;
+  height: 311px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle054 {
+  top: 903px;
+  left: 277px;
+  width: 809px;
+  height: 42px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle055 {
+  top: 903px;
+  left: 277px;
+  width: 809px;
+  height: 42px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle056 {
+  top: 945.800048828125px;
+  left: 276.8000183105469px;
+  width: 305px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle057 {
+  top: 903px;
+  left: 277px;
+  width: 305px;
+  height: 42px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle058 {
+  top: 945.800048828125px;
+  left: 582.1000366210938px;
+  width: 164px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle059 {
+  top: 903px;
+  left: 582px;
+  width: 164px;
+  height: 42px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle060 {
+  top: 945.800048828125px;
+  left: 745.6749877929688px;
+  width: 163px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle061 {
+  top: 903px;
+  left: 746px;
+  width: 163px;
+  height: 42px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle062 {
+  top: 945.800048828125px;
+  left: 908.4125366210938px;
+  width: 177px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle063 {
+  top: 903px;
+  left: 908px;
+  width: 177px;
+  height: 42px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle064 {
+  top: 946px;
+  left: 277px;
+  width: 809px;
+  height: 269px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle065 {
+  top: 946px;
+  left: 277px;
+  width: 809px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle066 {
+  top: 999.5999755859375px;
+  left: 276.8000183105469px;
+  width: 305px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle067 {
+  top: 946px;
+  left: 277px;
+  width: 305px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle068 {
+  top: 999.5999755859375px;
+  left: 582.1000366210938px;
+  width: 164px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle069 {
+  top: 946px;
+  left: 582px;
+  width: 164px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle070 {
+  top: 999.5999755859375px;
+  left: 745.6749877929688px;
+  width: 163px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle071 {
+  top: 946px;
+  left: 746px;
+  width: 163px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle072 {
+  top: 999.5999755859375px;
+  left: 908.4125366210938px;
+  width: 177px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle073 {
+  top: 946px;
+  left: 908px;
+  width: 177px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-frame23 {
+  top: 965px;
+  left: 932px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle074 {
+  top: 1000px;
+  left: 277px;
+  width: 809px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle075 {
+  top: 1053.4000244140625px;
+  left: 276.8000183105469px;
+  width: 305px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle076 {
+  top: 1000px;
+  left: 277px;
+  width: 305px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle077 {
+  top: 1053.4000244140625px;
+  left: 582.1000366210938px;
+  width: 164px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle078 {
+  top: 1000px;
+  left: 582px;
+  width: 164px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle079 {
+  top: 1053.4000244140625px;
+  left: 745.6749877929688px;
+  width: 163px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle080 {
+  top: 1000px;
+  left: 746px;
+  width: 163px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle081 {
+  top: 1053.4000244140625px;
+  left: 908.4125366210938px;
+  width: 177px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle082 {
+  top: 1000px;
+  left: 908px;
+  width: 177px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-frame24 {
+  top: 1019px;
+  left: 932px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle083 {
+  top: 1053px;
+  left: 277px;
+  width: 809px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle084 {
+  top: 1107.2000732421875px;
+  left: 276.8000183105469px;
+  width: 305px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle085 {
+  top: 1053px;
+  left: 277px;
+  width: 305px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle086 {
+  top: 1107.2000732421875px;
+  left: 582.1000366210938px;
+  width: 164px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle087 {
+  top: 1053px;
+  left: 582px;
+  width: 164px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle088 {
+  top: 1107.2000732421875px;
+  left: 745.6749877929688px;
+  width: 163px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle089 {
+  top: 1053px;
+  left: 746px;
+  width: 163px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle090 {
+  top: 1107.2000732421875px;
+  left: 908.4125366210938px;
+  width: 177px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle091 {
+  top: 1053px;
+  left: 908px;
+  width: 177px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-frame25 {
+  top: 1073px;
+  left: 932px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle092 {
+  top: 1107px;
+  left: 277px;
+  width: 809px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle093 {
+  top: 1161.0001220703125px;
+  left: 276.8000183105469px;
+  width: 305px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle094 {
+  top: 1107px;
+  left: 277px;
+  width: 305px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle095 {
+  top: 1161.0001220703125px;
+  left: 582.1000366210938px;
+  width: 164px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle096 {
+  top: 1107px;
+  left: 582px;
+  width: 164px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle097 {
+  top: 1161.0001220703125px;
+  left: 745.6749877929688px;
+  width: 163px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle098 {
+  top: 1107px;
+  left: 746px;
+  width: 163px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle099 {
+  top: 1161.0001220703125px;
+  left: 908.4125366210938px;
+  width: 177px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle100 {
+  top: 1107px;
+  left: 908px;
+  width: 177px;
+  height: 54px;
+  position: absolute;
+}
+.teacher-dashboard-frame26 {
+  top: 1127px;
+  left: 932px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle101 {
+  top: 1161px;
+  left: 277px;
+  width: 809px;
+  height: 53px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle102 {
+  top: 1161px;
+  left: 277px;
+  width: 305px;
+  height: 53px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle103 {
+  top: 1161px;
+  left: 582px;
+  width: 164px;
+  height: 53px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle104 {
+  top: 1161px;
+  left: 746px;
+  width: 163px;
+  height: 53px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle105 {
+  top: 1161px;
+  left: 908px;
+  width: 177px;
+  height: 53px;
+  position: absolute;
+}
+.teacher-dashboard-frame27 {
+  top: 1180px;
+  left: 932px;
+  width: 12px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle106 {
+  top: 828px;
+  left: 1110px;
+  width: 393px;
+  height: 388px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle107 {
+  top: 966.6000366210938px;
+  left: 1110.925048828125px;
+  width: 391px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle108 {
+  top: 829px;
+  left: 1111px;
+  width: 391px;
+  height: 138px;
+  position: absolute;
+}
+.teacher-dashboard-frame28 {
+  top: 926px;
+  left: 1135px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle109 {
+  top: 874px;
+  left: 1415px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle110 {
+  top: 903px;
+  left: 1415px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.teacher-dashboard-group08 {
+  top: 975px;
+  left: 1119px;
+  width: 375px;
+  height: 232px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group09 {
+  top: 0px;
+  left: 0px;
+  width: 333.1318359375px;
+  height: 232px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group10 {
+  top: -2.2737367544323206e-13px;
+  left: 24.75823402404785px;
+  width: 350.24176025390625px;
+  height: 232px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group11 {
+  top: 87.00006103515625px;
+  left: 0.00005549158959183842px;
+  width: 333.1318664550781px;
+  height: 145px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-group12 {
+  top: -2.2737367544323206e-13px;
+  left: 17.109941482543945px;
+  width: 333.1318664550781px;
+  height: 232px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.teacher-dashboard-rectangle111 {
+  top: 1239px;
+  left: 1098px;
+  width: 417px;
+  height: 223px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle112 {
+  top: 1305.8499755859375px;
+  left: 1122.925048828125px;
+  width: 367px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle113 {
+  top: 1260px;
+  left: 1123px;
+  width: 367px;
+  height: 46px;
+  position: absolute;
+}
+.teacher-dashboard-frame29 {
+  top: 1261px;
+  left: 1123px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-frame30 {
+  top: 1265px;
+  left: 1474px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle114 {
+  top: 1380.449951171875px;
+  left: 1122.925048828125px;
+  width: 367px;
+  height: 1px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle115 {
+  top: 1306px;
+  left: 1123px;
+  width: 367px;
+  height: 75px;
+  position: absolute;
+}
+.teacher-dashboard-frame31 {
+  top: 1323px;
+  left: 1123px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-frame32 {
+  top: 1346px;
+  left: 1250px;
+  width: 9px;
+  height: 14px;
+  position: absolute;
+}
+.teacher-dashboard-frame33 {
+  top: 1334px;
+  left: 1474px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-frame34 {
+  top: 1398px;
+  left: 1123px;
+  width: 18px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-frame35 {
+  top: 1410px;
+  left: 1474px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.teacher-dashboard-rectangle116 {
+  top: 1247px;
+  left: 276px;
+  width: 417px;
+  height: 311px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle117 {
+  top: 1653px;
+  left: 1123px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle118 {
+  top: 1724px;
+  left: 1123px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-radius: 8px;
+}
+.teacher-dashboard-rectangle119 {
+  top: 1942px;
+  left: 0px;
+  width: 80px;
+  height: 18px;
+  position: absolute;
+  border-color: rgba(234, 237, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.teacher-dashboard-text {
+  top: 74px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 69px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text002 {
+  top: 122px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text004 {
+  top: 170px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text006 {
+  top: 218px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 59px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text008 {
+  top: 266px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text010 {
+  top: 314px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text012 {
+  top: 366px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text014 {
+  top: 418px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text016 {
+  top: 466px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text018 {
+  top: 551px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text020 {
+  top: 603px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text022 {
+  top: 651px;
+  left: 72px;
+  color: rgba(234, 237, 242, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text024 {
+  top: 32px;
+  left: 1408px;
+  color: rgba(38, 43, 64, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text026 {
+  top: 97px;
+  left: 296px;
+  color: rgba(255, 255, 255, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text028 {
+  top: 167px;
+  left: 301px;
+  color: rgba(38, 43, 64, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text030 {
+  top: 200px;
+  left: 301px;
+  color: rgba(38, 43, 64, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 36.400001525878906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text032 {
+  top: 247px;
+  left: 301px;
+  color: rgba(74, 80, 115, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text034 {
+  top: 247px;
+  left: 384px;
+  color: rgba(5, 166, 119, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text036 {
+  top: 247px;
+  left: 421px;
+  color: rgba(5, 166, 119, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text037 {
+  top: 208px;
+  left: 1350px;
+  color: rgba(38, 43, 64, 1);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text039 {
+  top: 208px;
+  left: 1417px;
+  color: rgba(255, 255, 255, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text041 {
+  top: 579px;
+  left: 326px;
+  color: rgba(38, 43, 64, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text043 {
+  top: 579px;
+  left: 517px;
+  color: rgba(38, 43, 64, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text045 {
+  top: 579px;
+  left: 707px;
+  color: rgba(38, 43, 64, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text047 {
+  top: 579px;
+  left: 898px;
+  color: rgba(38, 43, 64, 1);
+  width: 21px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text049 {
+  top: 579px;
+  left: 1089px;
+  color: rgba(38, 43, 64, 1);
+  width: 14px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text051 {
+  top: 579px;
+  left: 1280px;
+  color: rgba(38, 43, 64, 1);
+  width: 18px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text053 {
+  top: 579px;
+  left: 1470px;
+  color: rgba(38, 43, 64, 1);
+  width: 21px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text055 {
+  top: 654px;
+  left: 442px;
+  color: rgba(38, 43, 64, 1);
+  width: 227px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text057 {
+  top: 688px;
+  left: 442px;
+  color: rgba(38, 43, 64, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 36.400001525878906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text059 {
+  top: 731px;
+  left: 442px;
+  color: rgba(74, 80, 115, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text061 {
+  top: 761px;
+  left: 455px;
+  color: rgba(5, 166, 119, 1);
+  width: 29px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text063 {
+  top: 761px;
+  left: 483px;
+  color: rgba(5, 166, 119, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text064 {
+  top: 761px;
+  left: 496px;
+  color: rgba(74, 80, 115, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text066 {
+  top: 654px;
+  left: 859px;
+  color: rgba(38, 43, 64, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text068 {
+  top: 688px;
+  left: 859px;
+  color: rgba(38, 43, 64, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 36.400001525878906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text070 {
+  top: 731px;
+  left: 859px;
+  color: rgba(74, 80, 115, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text072 {
+  top: 731px;
+  left: 942px;
+  color: rgba(74, 80, 115, 1);
+  width: 7px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text073 {
+  top: 761px;
+  left: 872px;
+  color: rgba(5, 166, 119, 1);
+  width: 29px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text075 {
+  top: 761px;
+  left: 900px;
+  color: rgba(5, 166, 119, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text076 {
+  top: 761px;
+  left: 913px;
+  color: rgba(74, 80, 115, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text078 {
+  top: 654px;
+  left: 1276px;
+  color: rgba(38, 43, 64, 1);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text080 {
+  top: 696px;
+  left: 1300px;
+  color: rgba(74, 80, 115, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text082 {
+  top: 696px;
+  left: 1358px;
+  color: rgba(74, 80, 115, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text084 {
+  top: 725px;
+  left: 1300px;
+  color: rgba(74, 80, 115, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text086 {
+  top: 726px;
+  left: 1361px;
+  color: rgba(74, 80, 115, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text088 {
+  top: 753px;
+  left: 1300px;
+  color: rgba(74, 80, 115, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text090 {
+  top: 848px;
+  left: 301px;
+  color: rgba(38, 43, 64, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text092 {
+  top: 855px;
+  left: 1009px;
+  color: rgba(38, 43, 64, 1);
+  width: 44px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text094 {
+  top: 915px;
+  left: 301px;
+  color: rgba(38, 43, 64, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text096 {
+  top: 915px;
+  left: 580px;
+  color: rgba(38, 43, 64, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text098 {
+  top: 915px;
+  left: 735px;
+  color: rgba(38, 43, 64, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text100 {
+  top: 915px;
+  left: 941px;
+  color: rgba(38, 43, 64, 1);
+  width: 85px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text102 {
+  top: 962px;
+  left: 301px;
+  color: rgba(74, 80, 115, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text104 {
+  top: 962px;
+  left: 606px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text105 {
+  top: 962px;
+  left: 778px;
+  color: rgba(74, 80, 115, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text107 {
+  top: 962px;
+  left: 961px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text109 {
+  top: 962px;
+  left: 997px;
+  color: rgba(74, 80, 115, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text110 {
+  top: 1016px;
+  left: 301px;
+  color: rgba(74, 80, 115, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text112 {
+  top: 1016px;
+  left: 606px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text113 {
+  top: 1016px;
+  left: 778px;
+  color: rgba(74, 80, 115, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text115 {
+  top: 1016px;
+  left: 961px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text117 {
+  top: 1016px;
+  left: 997px;
+  color: rgba(74, 80, 115, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text118 {
+  top: 1070px;
+  left: 301px;
+  color: rgba(74, 80, 115, 1);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text120 {
+  top: 1070px;
+  left: 606px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text121 {
+  top: 1070px;
+  left: 778px;
+  color: rgba(74, 80, 115, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text123 {
+  top: 1070px;
+  left: 961px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text125 {
+  top: 1070px;
+  left: 997px;
+  color: rgba(74, 80, 115, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text126 {
+  top: 1124px;
+  left: 301px;
+  color: rgba(74, 80, 115, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text128 {
+  top: 1124px;
+  left: 606px;
+  color: rgba(74, 80, 115, 1);
+  width: 28px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text129 {
+  top: 1124px;
+  left: 778px;
+  color: rgba(74, 80, 115, 1);
+  width: 17px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text131 {
+  top: 1124px;
+  left: 961px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text133 {
+  top: 1124px;
+  left: 997px;
+  color: rgba(74, 80, 115, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text134 {
+  top: 1177px;
+  left: 301px;
+  color: rgba(74, 80, 115, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text136 {
+  top: 1177px;
+  left: 606px;
+  color: rgba(74, 80, 115, 1);
+  width: 25px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text137 {
+  top: 1177px;
+  left: 778px;
+  color: rgba(74, 80, 115, 1);
+  width: 8px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text138 {
+  top: 1177px;
+  left: 961px;
+  color: rgba(74, 80, 115, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text140 {
+  top: 1177px;
+  left: 997px;
+  color: rgba(74, 80, 115, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text141 {
+  top: 848px;
+  left: 1135px;
+  color: rgba(74, 80, 115, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text143 {
+  top: 877px;
+  left: 1135px;
+  color: rgba(38, 43, 64, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 36.400001525878906px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text145 {
+  top: 923px;
+  left: 1148px;
+  color: rgba(5, 166, 119, 1);
+  width: 29px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text147 {
+  top: 923px;
+  left: 1176px;
+  color: rgba(5, 166, 119, 1);
+  width: 13px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text148 {
+  top: 868px;
+  left: 1433px;
+  color: rgba(74, 80, 115, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text150 {
+  top: 897px;
+  left: 1433px;
+  color: rgba(74, 80, 115, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text152 {
+  top: 1180px;
+  left: 1146px;
+  color: rgba(74, 80, 115, 1);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text154 {
+  top: 1180px;
+  left: 1206px;
+  color: rgba(74, 80, 115, 1);
+  width: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text156 {
+  top: 1180px;
+  left: 1262px;
+  color: rgba(74, 80, 115, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text158 {
+  top: 1180px;
+  left: 1323px;
+  color: rgba(74, 80, 115, 1);
+  width: 21px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text160 {
+  top: 1180px;
+  left: 1385px;
+  color: rgba(74, 80, 115, 1);
+  width: 14px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text162 {
+  top: 1180px;
+  left: 1441px;
+  color: rgba(74, 80, 115, 1);
+  width: 18px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 12px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text164 {
+  top: 1259px;
+  left: 1155px;
+  color: rgba(38, 43, 64, 1);
+  width: 94px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text166 {
+  top: 1262px;
+  left: 1424px;
+  color: rgba(38, 43, 64, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text168 {
+  top: 1321px;
+  left: 1155px;
+  color: rgba(38, 43, 64, 1);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text170 {
+  top: 1343px;
+  left: 1153px;
+  color: rgba(74, 80, 115, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text172 {
+  top: 1330px;
+  left: 1433px;
+  color: rgba(38, 43, 64, 1);
+  width: 33px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text174 {
+  top: 1396px;
+  left: 1157px;
+  color: rgba(38, 43, 64, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text176 {
+  top: 1419px;
+  left: 1153px;
+  color: rgba(38, 43, 64, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text178 {
+  top: 1406px;
+  left: 1433px;
+  color: rgba(38, 43, 64, 1);
+  width: 33px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text180 {
+  top: 1868px;
+  left: 276px;
+  color: rgba(74, 80, 115, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text182 {
+  top: 1868px;
+  left: 413px;
+  color: rgba(74, 80, 115, 1);
+  width: 43px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text184 {
+  top: 1868px;
+  left: 1233px;
+  color: rgba(102, 121, 158, 1);
+  width: 44px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text186 {
+  top: 1868px;
+  left: 1301px;
+  color: rgba(102, 121, 158, 1);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text188 {
+  top: 1868px;
+  left: 1382px;
+  color: rgba(102, 121, 158, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text190 {
+  top: 1868px;
+  left: 1440px;
+  color: rgba(102, 121, 158, 1);
+  width: 55px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text192 {
+  top: 34px;
+  left: 330px;
+  color: rgba(0, 0, 0, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 700;
+  line-height: 21px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-text194 {
+  top: 755px;
+  left: 1361px;
+  color: rgba(74, 80, 115, 1);
+  width: 34px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.teacher-dashboard-image2 {
+  top: 1248px;
+  left: 276px;
+  width: 417px;
+  height: 310px;
+  position: absolute;
+}
